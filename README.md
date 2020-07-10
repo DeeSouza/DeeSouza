@@ -2,10 +2,7 @@
 
 Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 
-<img src="https://img.shields.io/badge/Tech-Javascript-purple?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Tech-ReactNative-lightgray?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Tech-Laravel-orange?style=for-the-badge&logo=laravel" />
+<img src="https://img.shields.io/badge/Tech-Javascript-purple?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-ReactNative-lightgray?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-Laravel-orange?style=for-the-badge&logo=laravel" /> <img src="https://img.shields.io/badge/Tech-Typescript-success?style=for-the-badge&logo=typescript" />
 
 ### Tech Stack
 
