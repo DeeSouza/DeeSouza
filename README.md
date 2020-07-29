@@ -2,28 +2,16 @@
 
 Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 
-<img src="https://img.shields.io/badge/Tech-Javascript-purple?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-ReactNative-lightgray?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-Laravel-orange?style=for-the-badge&logo=laravel" /> <img src="https://img.shields.io/badge/Tech-Typescript-success?style=for-the-badge&logo=typescript" />
+<center>
 
-### Tech Stack
+![DeeSouza's Stats](https://github-readme-stats.vercel.app/api?username=deesouza&show_icons=true&theme=dracula)
 
-* React
-* React Native
-* NodeJS
-* Typescript
-* PHP
+<img src="https://img.shields.io/badge/Tech-Javascript-purple?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Tech-NodeJS-green?style=for-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/Tech-React-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-ReactNative-lightgray?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-Typescript-black?style=for-the-badge&logo=typescript" />
 
-### Frameworks
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deesouza)](https://github.com/deesouza)
 
-* AdonisJS
-* Laravel
-* Gatsby
+<img src="https://img.shields.io/badge/Framework-Gatsby-brown?style=for-the-badge&logo=gatsby" /> <img src="https://img.shields.io/badge/Framework-AdonisJS-purple?style=for-the-badge&logo=adonisjs" /> <img src="https://img.shields.io/badge/Tech-Laravel-orange?style=for-the-badge&logo=laravel" />
 
-### What I Use
-
-* VS Code Editor
-* Linux Mint
-* Figma Design
-* Carbon Now
 
 ### Contact
 
@@ -34,3 +22,5 @@ Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 [Medium](https://medium.com/@diegoalves_37748)
 
 [GitHub](https://github.com/deesouza)
+
+</center>
