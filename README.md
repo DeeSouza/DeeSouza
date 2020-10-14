@@ -17,8 +17,6 @@ Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 
 [DEV](https://dev.to/deesouza)
 
-[Instagram](https://instagram.com/_deecode)
-
 [Medium](https://medium.com/@diegoalves_37748)
 
 [GitHub](https://github.com/deesouza)
