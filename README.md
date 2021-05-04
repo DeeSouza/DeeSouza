@@ -11,13 +11,16 @@ Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 **Medium**
 
 * [Como integrar Laravel, NodeJS + Express + Socket.IO](https://medium.com/rocketseat/como-integrar-laravel-nodejs-socket-io-2b06a069b8e3)
+* [Criando um BOT no Telegram com AdonisJS](https://www.linkedin.com/pulse/criando-um-bot-telegram-com-adonisjs-diego-souza/?trackingId=F17yvkPoTYiABbSKesZNUw%3D%3D)
 * [1. Criando Site com AdonisJS — Estrutura](https://medium.com/@diegoalves_37748/criando-primeiro-site-com-adonisjs-estrutura-e3d4de2f643a)
 * [2. Criando Site com AdonisJS — Controllers e Rotas](https://medium.com/@diegoalves_37748/2-criando-site-com-adonisjs-controllers-e-rotas-d3bd275598c0)
 
 ### Social
 
-* [**DevTo**](https://dev.to/deesouza)
-* [**Medium**](https://medium.com/@diegoalves_37748)
+* [DevTo](https://dev.to/deesouza)
+* [Medium](https://medium.com/@diegoalves_37748)
+* [Stackoverflow](https://pt.stackoverflow.com/users/23919/diego-souza)
+* [Linkedin](https://www.linkedin.com/in/deesouza/)
 
 ### Skills
 
