@@ -16,7 +16,7 @@ Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 
 ### Social
 
-* [**DevTo**]((https://dev.to/deesouza))
+* [**DevTo**](https://dev.to/deesouza)
 * [**Medium**](https://medium.com/@diegoalves_37748)
 
 ### Skills
