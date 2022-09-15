@@ -7,6 +7,7 @@ Eu sou o Diego. Atualmente trabalho como Desenvolvedor Frontend e Backend.
 **DevTo**
 
 - [How to intercept a request with Axios](https://dev.to/deesouza/how-to-cancel-a-request-with-axios-48kg)
+- [Mocking com o MSW - Mock Service Worker](https://dev.to/deesouza/mocking-com-o-msw-mock-service-worker-16n3)
 
 **Medium**
 
